@@ -5,7 +5,7 @@ AtliQ Media, a private media company, aims to produce a show on the 2024 Lok Sab
 
 📊 Project Deliverables:
 🔗 Dashboard Link: https://lnkd.in/g_EH22hg 
-🔗 GitHub Link: https://lnkd.in/g5YuF2Ch 
+🔗 GitHub Link: https://github.com/israr-mohammed/Project-6---Insights-from-Lok-Sabha-Elections-2014-and-2019
 🔗 Presentation Link: https://docs.google.com/presentation/d/1C9gWonfEVo1lxbkns0POX0bip35dOdtnDHDwjfTqrPM/edit?usp=sharing
 
 
